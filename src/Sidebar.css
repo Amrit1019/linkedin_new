@@ -29,7 +29,6 @@
 .avatar1{
     margin-top: -20px;
 }
-
 .sidebar__info>a{
     display: flex;
     flex-direction: column;
@@ -59,7 +58,7 @@
 }
 
 .sidebar__info>a>p:hover{
-    color: blue;
+    color: red;
     cursor: pointer;
 }
 
@@ -110,7 +109,7 @@
     font-weight: bold;
     font-size: 14px;
     padding: 10px;
-    color: lightgray;
+    color: blue;
 }
 
 @media screen and (max-width: 960px){
